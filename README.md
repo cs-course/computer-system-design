@@ -5,5 +5,5 @@
 # 文件说明
 
 - [对象存储专题](https://github.com/cs-course/obs-tutorial)
-- [数据中心专题](https://github.com/cs-course/minidc-tutorial)
+- [数据中心专题](https://github.com/cs-course/k3s-tutorial)
 
